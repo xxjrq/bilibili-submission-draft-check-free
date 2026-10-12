@@ -2,7 +2,7 @@ name: bilibili-submission-draft-check-free
 slug: bilibili-submission-draft-check-free
 display_name: B站投稿草稿缺项检查
 description: 在用户指定的已登录浏览器中，只读查看本人已打开的 B 站投稿草稿与可见栏目，交付封面、标题、简介、分区和素材缺项、修改建议及逐条来源；账号、稿件归属或页面无法确认即停止，不保存、不提交，也不会把离线样例写成在线采集结果。
-version: 1.0.0
+version: 1.0.1
 icon: icon-512.png
 repository: https://github.com/xxjrq/bilibili-submission-draft-check-free
 license: MIT
